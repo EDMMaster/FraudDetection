@@ -7,10 +7,10 @@ Questions we answered with our analysis  -
 Question 1: What distances are cases of fraud more prevelent?
 Question 2: Which characteristic of a transaction is the most important in spotting fraud?
 
-![alt text](image.png)
+![alt text](Graphs/image.png)
 
-![alt text](image-1.png)
+![alt text](Graphs/image-1.png)
 
-![alt text](image-2.png)
+![alt text](Graphs/image-2.png)
 
 
